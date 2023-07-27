@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/README.md"/>
+  <img height="300" width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/cover.jpg"/>
 </div>
 <h1 align="center">Hi 👋, I'm YasasDaraka</h1>
 <h3 align="center">A passionate Fullstack developer from Srilanka</h3>
