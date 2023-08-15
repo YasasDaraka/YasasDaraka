@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yasasdaraka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasasdaraka" height="30" width="40" /></a>
-<a href="https://fb.com/yasasdaraka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasasdaraka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasas-daraka-88a164219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasasdaraka" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100004201007051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasasdaraka" height="30" width="40" /></a>
 <a href="https://instagram.com/yasasdaraka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasasdaraka" height="30" width="40" /></a>
 </p>
 
