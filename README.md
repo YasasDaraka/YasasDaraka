@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasasdaraka" alt="yasasdaraka" /></a> </p>
 
-- 🔭 I’m currently working on **Eon Tech Globle**
-
 - 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **darakayasas@gmail.com**
