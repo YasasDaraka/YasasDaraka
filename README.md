@@ -70,5 +70,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=yasasdaraka&theme=black-ice&hide_border=true&stroke=0000&background=000000)
 ![](https://github-profile-trophy.vercel.app/?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)<br/>
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 </div>
