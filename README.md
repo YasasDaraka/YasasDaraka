@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasasdaraka&layout=compact&theme=algolia" alt="yasasdaraka" />
+  <img  height="265" width="900" src="https://github-profile-trophy.vercel.app/?username=yasasdaraka&layout=compact&theme=algolia" alt="yasasdaraka" />
  </a>
 </p>
 
