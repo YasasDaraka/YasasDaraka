@@ -78,15 +78,22 @@
 
 ### 🔝 Top Contributed Repo
 
+<div> 
+  <div align="center">
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasasdaraka&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasasdaraka&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasasdaraka&theme=2077)
 
+</div>
+</div>
+
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/YasasDaraka/YasasDaraka/blob/main/line.gif)
 
-
 <div align="center"> 
+  
 ![user](https://github.com/YasasDaraka/YasasDaraka/blob/main/user.gif)
+
 </div>
 
 
