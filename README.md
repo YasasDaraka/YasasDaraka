@@ -38,11 +38,11 @@
 <a href="https://instagram.com/yasasdaraka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasasdaraka" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-
 ### My Portfolio 
 </br>
 
+<div align="center">
+  
 <div align="center">
   
   <a href="https://yasasdaraka.github.io/MyPortfolio/" target="_blank">
