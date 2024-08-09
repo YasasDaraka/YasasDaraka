@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasasdaraka&label=Profile%20views&color=0e75b6&style=flat" alt="yasasdaraka" /> </p>
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/YasasDaraka/YasasDaraka/blob/main/line.gif)
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/YasasDaraka/YasasDaraka/blob/main/line.gif)
 
 </div>
 
@@ -61,14 +61,10 @@
 
 </div>
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/YasasDaraka/YasasDaraka/blob/main/line.gif)
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=yasasdaraka&theme=black-ice&hide_border=true&stroke=0000&background=000000)
-![](https://github-profile-trophy.vercel.app/?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)<br/>
-
-
