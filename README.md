@@ -68,7 +68,6 @@
 <div>
   <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yasasdaraka&theme=black-ice&hide_border=true&stroke=0000&background=000000)<br/>
