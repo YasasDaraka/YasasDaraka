@@ -92,7 +92,11 @@
 
 ### ✍️ Random Dev Quote
 
+<div align="center"> 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black_ice)
+
+</div>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/YasasDaraka/YasasDaraka/blob/main/line.gif)
 
