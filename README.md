@@ -38,7 +38,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
 </div>
-# 💻 Languages and Tools
+# 💻 Languages and Tools:
 <div align="center">
 
 | Title                          | Icon                                                                                                             |
