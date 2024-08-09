@@ -22,7 +22,7 @@
 </p>
 
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3156a30e-d55a-4768-824c-e6868b31fc35)
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/YasasDaraka/YasasDaraka/blob/main/line.gif)
 
 ### ✌️ About Me
 
