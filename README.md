@@ -1,16 +1,30 @@
 <div align="center">
   <img height="265" width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/Cover.jpg"/>
 </div>
-<h1 align="center">Hi 👋, I'm YasasDaraka</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasas+Daraka;IJSE+-+Institute+of+Software+Engineering&color=FFA633)](https://git.io/typing-svg)
+<!-- <h1 align="center">Hi 👋, I'm YasasDaraka</h1> -->
 <h3 align="center">A passionate Fullstack developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasasdaraka&label=Profile%20views&color=0e75b6&style=flat" alt="yasasdaraka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasasdaraka" alt="yasasdaraka" /></a> </p>
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
 
-- 🌱 I’m currently learning **Software Engineering**
+## 🏆 GitHub Trophies
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasasdaraka&layout=compact&theme=algolia" alt="yasasdaraka" />
+ </a>
+</p>
 
-- 📫 How to reach me **darakayasas@gmail.com**
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3156a30e-d55a-4768-824c-e6868b31fc35)
+
+### ✌️ About Me
+
+- 🎓 I'm Studying at `IJSE` - Institute of Software Engineering
+- 👨‍💻 I’m currently learning `Software Engineering`
+- 💻 Ask me about `Programming`
+- 📧 How to reach me [darakayasas@gmail.com](https://www.darakayasas@gmail@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,11 +33,34 @@
 <a href="https://instagram.com/yasasdaraka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasasdaraka" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasasdaraka&show_icons=true&locale=en&layout=compact" alt="yasasdaraka" /></p>
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasasdaraka&show_icons=true&locale=en" alt="yasasdaraka" /></p>
+</div>
+# 💻 Languages and Tools
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasasdaraka&" alt="yasasdaraka" /></p>
+| Title                          | Icon                                                                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,js,ts"/>                                                           |
+| Front End                      | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,react,ts" />                  |
+| Back End                       | <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express" />                                |
+| Mobile Application Development | <img src="https://skillicons.dev/icons?i=react,firebase"/>                                                       |
+| Databases                      | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>                                                        |
+| Framworks & Libraries          | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,tailwind,jquery"/>      |
+| Tools                          | <img src="https://skillicons.dev/icons?i=figma,idea,vscode,androidstudio,postman,maven"/>                        |
+| Version Control                | <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>                                                    |
+| Others                         | <img src="https://skillicons.dev/icons?i=regex,npm"/>                                                            |
+
+</div>
+
+# 📊 GitHub Stats:
+<div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=yasasdaraka&theme=black-ice&hide_border=true&stroke=0000&background=000000)
+![](https://github-profile-trophy.vercel.app/?username=yasasdaraka&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)<br/>
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+</div>
