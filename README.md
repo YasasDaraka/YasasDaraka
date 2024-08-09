@@ -2,13 +2,12 @@
   <img height="265" width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/Cover.jpg"/>
 </div>
 
-<div align="center"> 
-
+<div align="center" style="margin-top: 2vw;"> 
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasas+Daraka;IJSE+-+Institute+of+Software+Engineering&color=FFA633)](https://git.io/typing-svg)
+
 </div>
 
-
-<!-- <h1 align="center">Hi 👋, I'm YasasDaraka</h1> -->
 <h3 align="center">A passionate Fullstack developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasasdaraka&label=Profile%20views&color=0e75b6&style=flat" alt="yasasdaraka" /> </p>
