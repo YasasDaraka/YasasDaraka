@@ -38,6 +38,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
 </div>
+
 # 💻 Languages and Tools:
 <div align="center">
 
@@ -54,6 +55,8 @@
 | Others                         | <img src="https://skillicons.dev/icons?i=regex,npm"/>                                                            |
 
 </div>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 # 📊 GitHub Stats:
 <div align="center">
