@@ -1,8 +1,8 @@
 <div align="center">
   <img height="265" width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/Cover.jpg"/>
 </div>
-
-<div align="center" style="margin-top: 2vw;"> 
+<br><br>
+<div align="center"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasas+Daraka;IJSE+-+Institute+of+Software+Engineering&color=FFA633)](https://git.io/typing-svg)
 
