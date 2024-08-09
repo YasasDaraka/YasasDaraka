@@ -26,7 +26,7 @@
 
 ### ✌️ About Me
 
-- 🎓 I'm Studying at `IJSE` - Institute of Software Engineering
+- 🎓 I'm Studying at `Institute of Software Engineering`
 - 👨‍💻 I’m currently learning `Software Engineering`
 - 💻 Ask me about `Programming`
 - 📧 How to reach me [darakayasas@gmail.com](https://www.darakayasas@gmail@gmail.com)
@@ -76,3 +76,20 @@
  </div>
 </div>
 
+### 🔝 Top Contributed Repo
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasasdaraka&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasasdaraka&theme=2077)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasasdaraka&theme=2077)
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/YasasDaraka/YasasDaraka/blob/main/line.gif)
+
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 Visit🤝 
+</h5>
+
+<div>
+<div align="center"> 
+![image](https://github.com/YasasDaraka/YasasDaraka/blob/main/user.gif)
+</div>
+</div>
