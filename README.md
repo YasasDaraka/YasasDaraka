@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/Cover.jpg"/>
+  <img  height="265" width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/Cover.jpg"/>
 </div>
 <br><br>
 <div align="center"> 
@@ -43,7 +43,7 @@
 <div align="center">
   
   <a href="https://yasasdaraka.github.io/MyPortfolio/" target="_blank">
- <img height="265" width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/portfolio.png"/>
+ <img width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/portfolio.png"/>
 </a>
  
 </div>
