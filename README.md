@@ -40,6 +40,14 @@
 
 <div align="center">
 
+<div align="center">
+  
+  <a href="https://yasasdaraka.github.io/MyPortfolio/" target="_blank">
+ <img height="265" width="900" src="https://github.com/YasasDaraka/YasasDaraka/blob/main/portfolio.png"/>
+</a>
+ 
+</div>
+
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/YasasDaraka/YasasDaraka/blob/main/line.gif)
 
 </div>
